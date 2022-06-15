@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\23-VeinteNumerosVerElMayorYElOrden\23-VeinteNumerosVerElMayorYElOrden\bin\Debug\23-VeinteNumerosVerElMayorYElOrden.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\23-VeinteNumerosVerElMayorYElOrden\23-VeinteNumerosVerElMayorYElOrden\bin\Debug\23-VeinteNumerosVerElMayorYElOrden.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\23-VeinteNumerosVerElMayorYElOrden\23-VeinteNumerosVerElMayorYElOrden\obj\Debug\23-VeinteNumerosVerElMayorYElOrden.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\23-VeinteNumerosVerElMayorYElOrden\23-VeinteNumerosVerElMayorYElOrden\obj\Debug\23-VeinteNumerosVerElMayorYElOrden.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\23-VeinteNumerosVerElMayorYElOrden\23-VeinteNumerosVerElMayorYElOrden\obj\Debug\23-VeinteNumerosVerElMayorYElOrden.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\23-VeinteNumerosVerElMayorYElOrden\23-VeinteNumerosVerElMayorYElOrden\obj\Debug\23-VeinteNumerosVerElMayorYElOrden.pdb
